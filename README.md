@@ -12,9 +12,10 @@ The dataset used for training and testing the model contains images of various h
 
 ## Instructions
 
-1. To view the project notebook, click on the following link: [Sign Language Identifier Notebook](https://colab.research.google.com/github/Mohammed-khair/sign-language-identifier-Keras/blob/main/Mini_sign_language_identifier_Keras.ipynb)
+1. To view the project notebook, click on the following link:
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1E9-tLzEpsUB35jhlOuCQmVfp0L49P5HN?usp=sharing](https://colab.research.google.com/github/Mohammed-khair/sign-language-identifier-Keras/blob/main/Mini_sign_language_identifier_Keras.ipynb))
 
-2. The notebook contains all the code necessary to train and evaluate the sign language symbol identifier. It covers the following steps:
+3. The notebook contains all the code necessary to train and evaluate the sign language symbol identifier. It covers the following steps:
 
    - Loading and splitting the dataset into training and testing sets.
    - Normalizing the input image vectors and reshaping the output vectors.
@@ -25,7 +26,7 @@ The dataset used for training and testing the model contains images of various h
    - Compiling the model using the Adam optimizer and categorical crossentropy loss.
    - Training the model for 100 epochs.
 
-3. The model's performance metrics, including loss and accuracy, will be displayed during training.
+4. The model's performance metrics, including loss and accuracy, will be displayed during training.
 
 ## How to Use the Code
 
