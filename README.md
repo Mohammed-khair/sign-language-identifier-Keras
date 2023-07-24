@@ -13,7 +13,7 @@ The dataset used for training and testing the model contains images of various h
 ## Instructions
 
 1. To view the project notebook, click on the following link:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1E9-tLzEpsUB35jhlOuCQmVfp0L49P5HN?usp=sharing](https://colab.research.google.com/github/Mohammed-khair/sign-language-identifier-Keras/blob/main/Mini_sign_language_identifier_Keras.ipynb))
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gAF8XmZ8bYVzr1vX6R_NKdq8YoLmo5xl?usp=sharing)
 
 3. The notebook contains all the code necessary to train and evaluate the sign language symbol identifier. It covers the following steps:
 
